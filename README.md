@@ -2,11 +2,16 @@
 
 This project aims to achieve a lunar landing using reinforcement learning in place of traditional aerospace methods. Since real-world rocket training isn’t practical, the focus is on creating a realistic simulator to mimic the environment. The process involves building the simulator, selecting an effective algorithm, and optimizing hyperparameters, starting with a lunar lander environment.
 
-<div align="middle">
-<video width="80%" controls>
-      <source src="Agent_Learning_Ex.mp4" type="video/mp4">
-</video>
-</div>
+## Lunar Lander Progression
+
+<p align="center">
+  <img src="lunar_landar_1.png" alt="Lunar Lander 1" width="20%" />
+  <img src="lunar_landar_2.png" alt="Lunar Lander 2" width="20%" />
+  <img src="lunar_landar_3.png" alt="Lunar Lander 3" width="20%" />
+  <img src="lunar_landar_4.png" alt="Lunar Lander 4" width="20%" />
+  <img src="lunar_landar_5.png" alt="Lunar Lander 5" width="20%" />
+</p>
+
 
 ## Environment Design
 
