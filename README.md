@@ -2,6 +2,12 @@
 
 This project aims to achieve a lunar landing using reinforcement learning in place of traditional aerospace methods. Since real-world rocket training isn’t practical, the focus is on creating a realistic simulator to mimic the environment. The process involves building the simulator, selecting an effective algorithm, and optimizing hyperparameters, starting with a lunar lander environment.
 
+<div align="middle">
+<video width="80%" controls>
+      <source src="ImplementYourAgent.mp4" type="video/mp4">
+</video>
+</div>
+
 ## Environment Design
 
 - **Creating the Reward Function**: The reward function for the lunar lander environment takes into account conditions such as landing speed, angle, fuel consumption, and proximity to the landing zone. Specifically, the lander will crash under conditions of excessive downward or horizontal speed, an off-vertical angle at touchdown, fuel depletion, or landing outside a specified range of the target zone. The reward function also incentivizes fuel conservation.
