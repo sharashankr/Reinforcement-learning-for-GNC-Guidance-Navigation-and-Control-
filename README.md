@@ -10,6 +10,7 @@ This project aims to achieve a lunar landing using reinforcement learning in pla
   <img src="lunar_landar_3.png" alt="Lunar Lander 3" width="20%" />
   <img src="lunar_landar_4.png" alt="Lunar Lander 4" width="20%" />
   <img src="lunar_landar_5.png" alt="Lunar Lander 5" width="20%" />
+  <img src="lunar_landar.png" alt="Lunar Lander 5" width="20%" />
 </p>
 
 
