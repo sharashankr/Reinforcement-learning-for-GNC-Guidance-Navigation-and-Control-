@@ -5,12 +5,12 @@ This project aims to achieve a lunar landing using reinforcement learning in pla
 ## Lunar Lander Progression
 
 <p align="center">
-  <img src="lunar_landar_1.png" alt="Lunar Lander 1" width="50%" />
-  <img src="lunar_landar_2.png" alt="Lunar Lander 2" width="50%" />
-  <img src="lunar_landar_3.png" alt="Lunar Lander 3" width="50%" />
-  <img src="lunar_landar_4.png" alt="Lunar Lander 4" width="50%" />
-  <img src="lunar_landar_5.png" alt="Lunar Lander 5" width="50%" />
-  <img src="lunar_landar.png" alt="Lunar Lander 6" width="50%" />
+  <img src="lunar_landar_1.png" alt="Lunar Lander 1" width="40%" />
+  <img src="lunar_landar_2.png" alt="Lunar Lander 2" width="40%" />
+  <img src="lunar_landar_3.png" alt="Lunar Lander 3" width="40%" />
+  <img src="lunar_landar_4.png" alt="Lunar Lander 4" width="40%" />
+  <img src="lunar_landar_5.png" alt="Lunar Lander 5" width="40%" />
+  <img src="lunar_landar.png" alt="Lunar Lander 6" width="40%" />
 </p>
 
 
