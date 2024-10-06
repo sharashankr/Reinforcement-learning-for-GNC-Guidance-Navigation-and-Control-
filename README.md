@@ -4,7 +4,7 @@ This project aims to achieve a lunar landing using reinforcement learning in pla
 
 <div align="middle">
 <video width="80%" controls>
-      <source src="ImplementYourAgent.mp4" type="video/mp4">
+      <source src="Agent Learning Ex.mp4" type="video/mp4">
 </video>
 </div>
 
